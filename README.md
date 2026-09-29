@@ -1,1 +1,1 @@
-# ftc-autonomoupathing
+# ftc-auto-pathing
